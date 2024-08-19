@@ -1,0 +1,35 @@
+genger 
+
+male     = 1
+female   = 0
+
+
+race/ethnicity
+
+group A     =1
+group B     =2
+group C     =3
+group D     =4
+group E     =5
+
+
+
+parental level of education
+
+high school            = 1
+some high school       = 2
+some college           = 3
+associate's degree     = 4
+bachelor's degree      = 5
+master's degree        = 6
+
+
+lunch
+
+standard      = 1
+free/reduced  = 0
+
+test preparation course
+
+none       = 0
+completed  = 1
