@@ -30,4 +30,4 @@ Este projeto integrou conhecimentos teóricos e práticos de probabilidade, esta
 
 ## Referências
 
-As referências utilizadas estão listadas no arquivo `relatorio.pdf`.
+As referências utilizadas estão listadas no arquivo [RELATÓRIO](documentação/Relatório_de_estatística_.pdf).
